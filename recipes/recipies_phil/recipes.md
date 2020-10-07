@@ -5,7 +5,7 @@
 ![RECIPE](pics/pic.jpg)
 
 
-# Ofenkartoffeln mit Schnittlauch-Joghurt und Katenschinken
+# Baked potatoes with chives yogurt and ham
 
 <br><br>
 
@@ -25,7 +25,7 @@ FÜR OFENKARTOFFELN MIT SCHNITTLAUCH-JOGHURT UND KATENSCHINKEN
 <br>
 **4 Portrionen**
 <br><br>
-|||
+| Ingredients |  |
 |:----------------- | ----------------:|
 | **Kartoffeln, vorw. festk.** | 8 St. | 
 | **Salz** |  | 
