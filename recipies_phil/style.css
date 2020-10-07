@@ -1,0 +1,104 @@
+
+
+/* MAIN SELECTOR */
+
+body{
+    background:white;
+    color: black;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0px;
+    width: 600px;
+}
+
+
+
+/* font für h1 / h2 */
+
+
+
+ h1{
+   
+    font-family: 'din condensed','Fjalla One', sans-serif;
+
+    background-color: black;
+    color:white;
+    font-size: 40px;
+    text-transform: uppercase;
+    /* line-height: 57px; */
+    
+    display: inline;
+    text-align:left;
+    
+    border-top: solid 10px black;
+   
+    line-height: 50px;
+   
+}
+
+
+h2{
+    font-family: 'din condensed','Fjalla One', sans-serif;
+
+    background-color: black;
+    color:white;
+    font-size: 25px;
+    text-transform: uppercase;
+    /* line-height: 57px; */
+    
+    display: inline;
+    text-align:left;
+ 
+    border-top: solid 10px black;
+   
+    line-height: 35px;
+}
+
+
+
+h1::before, h2::before{
+    content: "  " ;
+    white-space: pre;
+  }
+
+h1::after, h2::after {
+    content: "  " ;
+    white-space: pre;
+}
+
+
+p{
+    text-align:left;
+  
+
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    letter-spacing: .01em;
+    line-height: 1.6em;
+    text-transform: none;
+}
+
+
+hr{
+    padding: 2px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 60px;
+    background-color: black;
+    margin-left: 0px;
+}
+
+
+/* END OF FONT AND HEADINGS */
+
+
+
+
+
+
+
+/* Table */
+
+
+
+
